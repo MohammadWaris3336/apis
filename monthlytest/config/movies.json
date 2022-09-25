@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Apple",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "category": "Fruit",
+        "price": 200,
+        "rating": "9.2"
+    },
+    {
+        "name": "Orange",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "category": "Fruit",
+        "price": 400,
+        "rating": "9.2"
+    },
+    {
+        "name": "Perfume",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "category": "Mens",
+        "price": 2000,
+        "rating": "9.0"
+    },
+    {
+        "name": "Perfumes ladies",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "category": "Women",
+        "price": 3000,
+        "rating": "8.9"
+    },
+    {
+        "name": "Bottles",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "category": "Home",
+        "price": 50,
+        "rating": "8.8"
+    }
+] 
